@@ -1,0 +1,2 @@
+haslo 1 = cos1
+haslo 2 = cos innego 
